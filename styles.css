@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background: #1F2937;
+    
+    display: flex;
+    padding: 8px;
+    justify-content: space-between;
+}
+
+.header-logo {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+.links {
+    font-size: 18px;
+    color: #E5E7EB ;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.main-1 {
+    display: flex;
+    background-color: #1F2937;
+}
+.head {
+    font-size: 48px;
+    font-weight:bolder;
+    color: #F9FAF8;
+}
+
+
+
+p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
